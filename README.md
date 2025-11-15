@@ -1,4 +1,5 @@
 🌾 AI-Powered Crop Yield Prediction System
+Visit this  Site : https://codebyharii.github.io/Ai-powered/
 
 An end-to-end AI & ML powered platform that predicts crop yield using soil data, weather conditions, and vegetation indices. Designed for farmers, agri-startups, researchers, and precision-farming systems.
 
@@ -20,3 +21,4 @@ It includes:
 📊 Optional Database Support — Postgres/SQLite for storing predictions
 
 📦 Modular Architecture — Easy to extend with new crops & datasets
+
