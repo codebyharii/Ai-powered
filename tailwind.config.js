@@ -1,4 +1,4 @@
-/** @type {import('tailwindcss').Config}  config all the thinng in */
+/** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
