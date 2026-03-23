@@ -11,7 +11,7 @@ It includes:
 🧠 Machine Learning Model — Random Forest / XGBoost based prediction
 
 🌐 FastAPI Backend — REST API for ML inference
-
+   
 💻 Frontend UI — Enter inputs & view predictions
 
 🗂️ Data Pipeline — Preprocessing, feature engineering, EDA
