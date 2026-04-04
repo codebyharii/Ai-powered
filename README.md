@@ -20,6 +20,6 @@ It includes:
 
 📊 Optional Database Support — Postgres/SQLite for storing predictions
 
-📦 Modular Architecture — Easy to extend with new crops & datasets
+ Modular Architecture — Easy to extend with new crops & datasets
 
   
