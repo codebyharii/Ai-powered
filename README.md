@@ -22,5 +22,4 @@ It includes:
 
  Modular Architecture — Easy to extend with new crops & datasets
 
-  
-byyyeee
+
